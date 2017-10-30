@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">173059004_lab11</string>
+    <string name="title_activity_research_forum">Research Forum</string>
+    <string name="title_activity_login">Sign In</string>
+    <string name="title_activity_main">Registration</string>
+    <string name="title_activity_game">Tic Tac Toe</string>
+</resources>
